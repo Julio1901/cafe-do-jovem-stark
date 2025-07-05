@@ -1,9 +1,9 @@
 # Café do Jovem Stark ☕
 
-> _Por Julio — também conhecido como **Jovem Stark**_
+> _Meu nome é Julio Cesar — mas meus amigos me chamam de **Jovem Stark**_
 
-Sou engenheiro de software com foco em desenvolvimento iOS nativo com Swift. Gosto de arquitetura limpa, café e compartilhar conhecimento.  
-Este blog é meu espaço para compartilhar estudos, reflexões e experiências do dia a dia como desenvolvedor.
+Sou um engenheiro de software com foco em desenvolvimento iOS nativo com Swift. Gosto de arquitetura limpa, café e compartilhar conhecimento.  
+Este blog é meu espaço para registrar aprendizados, projetos e reflexões – tanto técnicos quanto pessoais – que venho acumulando ao longo da jornada como profissional.
 
 ---
 

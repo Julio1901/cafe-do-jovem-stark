@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: "☕ Café do Jovem Stark"
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Blog sobre desenvolvimento iOS, Flutter, arquitetura limpa, café e reflexões pessoais.
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Blog sobre desenvolvimento iOS, Flutter, arquitetura limpa, café e reflexões pessoais.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -35,13 +35,6 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Julio Cesar
-  bio: >
-    Sou um engenheiro de software especializado em desenvolvimento de aplicativos mobile. Atualmente, atuo com iOS nativo em Swift e também com Flutter usando Dart.
-
-    Já trabalhei com Android utilizando Kotlin, embora hoje meu foco esteja no ecossistema Apple e em tecnologias multiplataforma.
-
-    Sou apaixonado por arquitetura limpa, café e compartilhar conhecimento.  
-    Este blog é meu espaço pessoal para registrar aprendizados, projetos e reflexões — tanto técnicas quanto pessoais — acumuladas ao longo da minha jornada profissional.
   email: contatojuliodeveloper@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link

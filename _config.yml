@@ -34,8 +34,15 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Julio Cesar
+  bio: >
+    Sou um engenheiro de software especializado em desenvolvimento de aplicativos mobile. Atualmente, atuo com iOS nativo em Swift e também com Flutter usando Dart.
+
+    Já trabalhei com Android utilizando Kotlin, embora hoje meu foco esteja no ecossistema Apple e em tecnologias multiplataforma.
+
+    Sou apaixonado por arquitetura limpa, café e compartilhar conhecimento.  
+    Este blog é meu espaço pessoal para registrar aprendizados, projetos e reflexões — tanto técnicas quanto pessoais — acumuladas ao longo da minha jornada profissional.
+  email: contatojuliodeveloper@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
@@ -98,7 +105,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/profile-image.png
 
 # The  of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

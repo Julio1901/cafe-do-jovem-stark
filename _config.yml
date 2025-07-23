@@ -91,7 +91,7 @@ pageviews:
 theme_mode: # [light | dark]
 
 # The CDN endpoint for media resources.
-# Notice that once it is assigned, the CDN url
+# Notice that once it is assigned, the CDN 
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
@@ -100,7 +100,7 @@ cdn:
 # the avatar on sidebar, support local or CORS resources
 avatar:
 
-# The URL of the site-wide social preview image used in SEO `og:image` meta tag.
+# The  of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
 social_preview_image: # string, local or CORS resources
 
@@ -116,7 +116,7 @@ comments:
   # utterances settings › https://utteranc.es/
   utterances:
     repo: # <gh-username>/<repo>
-    issue_term: # < url | pathname | title | ...>
+    issue_term: # <  | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
     repo: # <gh-username>/<repo>
@@ -142,15 +142,15 @@ pwa:
   cache:
     enabled: true # The option for PWA offline cache
     # Paths defined here will be excluded from the PWA cache.
-    # Usually its value is the `baseurl` of another website that
+    # Usually its value is the `base` of another website that
     # shares the same domain name as the current website.
     deny_paths:
-      # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
+      # - "/example"  # s match `<SITE_>/example/*` will not be cached by the PWA
 
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "https://julio1901.github.io/cafe-do-jovem-stark/"
 
 # ------------ The following options are not recommended to be modified ------------------
 

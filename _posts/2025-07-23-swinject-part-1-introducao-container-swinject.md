@@ -1,10 +1,10 @@
 ---
-title: "Introdução ao Container no Swinject: Conceitos e Exemplos Básicos"
+title: "Swinject Part I — Introdução ao Container no Swinject: Conceitos e Exemplos Básicos"
 date: 2025-07-24
 tags: [Swinject, Dependency Injection, Swift, iOS, DI Container]
 ---
 
-# Introdução ao Container no Swinject: Conceitos e Exemplos Básicos
+# Swinject Part I — Introdução ao Container no Swinject: Conceitos e Exemplos Básicos
 
 Este é o primeiro vídeo de uma série onde vamos explorar o Swinject, um framework para injeção de dependências (Dependency Injection - DI) no Swift. Nesta publicação, abordarei o conceito do container no Swinject e como ele facilita o gerenciamento de dependências em projetos iOS.
 

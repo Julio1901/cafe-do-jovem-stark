@@ -1,9 +1,8 @@
-
 ---
-title: "Como Resolver Dependências Circulares com Swinject no iOS"
+title: "Swinject Part III — Como Resolver Dependências Circulares com Swinject no iOS"
 author: Julio Cesar
 date: 2025-07-23
-tags: [iOS, Swinject, Dependency Injection]
+tags: [iOS, Swinject, Dependency Injection, Swift]
 ---
 
 Neste post, vamos entender o que são **dependências circulares** e como podemos resolvê-las usando **Swinject**, um framework de injeção de dependência no iOS. A explicação é baseada na documentação oficial e em exemplos práticos tirados de um projeto real.

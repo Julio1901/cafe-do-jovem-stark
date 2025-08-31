@@ -20,7 +20,7 @@ Neste post, iniciamos uma série sobre **Git**, abordando:
 
 ## Sumário
 
-1. [O que e o Git](#o-que-e-o-git)
+1. [Entendendo o Git](#o-que-e-o-git)
 2. [Sistemas Centralizados x Distribuídos](#sistemas-centralizados-x-distribuidos)
 3. [Estrutura do Git](#estrutura-do-git)
    - [Working Directory](#working-directory)
@@ -30,7 +30,7 @@ Neste post, iniciamos uma série sobre **Git**, abordando:
 
 ---
 
-## O que é o Git {#o-que-e-o-git}
+## Entendendo o Git
 
 O Git é um **sistema de controle de versionamento distribuído**. Ele permite que cada desenvolvedor tenha uma cópia completa do projeto, incluindo histórico, permitindo trabalhar offline e sincronizar alterações posteriormente.
 

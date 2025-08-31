@@ -5,7 +5,7 @@ categories: [Git, Versionamento]
 tags: [Git, Versionamento]
 ---
 
-# Série Git - Estrutura do Git: Working Directory, Staging Area e Repository
+# Série Git - Working Directory, Staging Area e Repository
 
 Neste post, iniciamos uma série sobre **Git**, abordando:
 

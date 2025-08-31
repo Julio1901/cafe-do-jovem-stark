@@ -1,7 +1,7 @@
 ---
-title: "Série Git - Estrutura do Git: Working Directory, Staging Area e Repository"
+title: "Série Git part I - Estrutura do Git: Working Directory, Staging Area e Repository"
 date: 2025-08-30
-categories: [Git, Versionamento, Programação]
+categories: [Git, Versionamento]
 tags: [Git, Versionamento]
 ---
 
@@ -102,3 +102,7 @@ Isso torna o Git **eficiente, rápido e confiável** para versionamento.
 ---
 
 Este post foi uma introdução à série de Git e controle de versionamento. Nos próximos vídeos e posts, abordaremos comandos avançados, branches, merges e workflows mais detalhados.
+
+---
+
+*Publicado por Julio Cesar - Café do Jovem Stark*

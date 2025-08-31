@@ -30,24 +30,24 @@ Neste post, iniciamos uma série sobre **Git**, abordando:
 
 ---
 
-## Entendendo o Git
+## Entendendo o Git {#entendendo-o-git}
 
 O Git é um **sistema de controle de versionamento distribuído**. Ele permite que cada desenvolvedor tenha uma cópia completa do projeto, incluindo histórico, permitindo trabalhar offline e sincronizar alterações posteriormente.
 
 ---
 
-## Sistemas Centralizados x Distribuídos
+## Sistemas Centralizados x Distribuídos {#sistemas-centralizados-x-distribuidos}
 
 - **Centralizado:** Um servidor único mantém todos os arquivos e histórico. Se o servidor ficar indisponível, ninguém consegue trabalhar.
 - **Distribuído (Git):** Cada desenvolvedor possui uma cópia completa do projeto e histórico. É possível trabalhar offline e sincronizar alterações com o servidor depois.
 
 ---
 
-## Estrutura do Git
+## Estrutura do Git {#estrutura-do-git}
 
 O Git possui três áreas principais:
 
-### Working Directory
+### Working Directory {#working-directory}
 
 É a pasta onde você edita os arquivos. Modificações aparecem aqui primeiro.
 
@@ -58,7 +58,7 @@ git status
 
 Arquivos modificados aparecem destacados, indicando que foram alterados mas ainda não preparados para commit.
 
-### Staging Area
+### Staging Area {#staging-area}
 
 Também chamada de **index**, funciona como uma **sala de espera**. Você escolhe quais arquivos irão para o próximo commit.
 
@@ -67,7 +67,7 @@ Também chamada de **index**, funciona como uma **sala de espera**. Você escolh
 git add file.txt
 ```
 
-### Repository
+### Repository {#repository}
 
 O **repositório** é o banco de dados local do Git, onde os commits são gravados. Contém histórico, branches e todos os snapshots do projeto.
 
@@ -80,7 +80,7 @@ Fluxo resumido: **Working Directory → Staging Area → Repository**
 
 ---
 
-## Snapshots e Hashes
+## Snapshots e Hashes {#snapshots-e-hashes}
 
 O Git não salva apenas diferenças entre arquivos, mas **snapshots** completos do projeto:
 
@@ -106,3 +106,4 @@ Este post foi uma introdução à série de Git e controle de versionamento. Nos
 ---
 
 *Publicado por Julio Cesar - Café do Jovem Stark*
+

@@ -20,7 +20,7 @@ Neste post, iniciamos uma série sobre **Git**, abordando:
 
 ## Sumário
 
-1. [Entendendo o Git](#o-que-e-o-git)
+1. [Entendendo o Git](#entendendo-o-git)
 2. [Sistemas Centralizados x Distribuídos](#sistemas-centralizados-x-distribuidos)
 3. [Estrutura do Git](#estrutura-do-git)
    - [Working Directory](#working-directory)

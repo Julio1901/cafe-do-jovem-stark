@@ -305,3 +305,6 @@ A regra principal é simples:
 > Não quero aprender a mesma coisa duas vezes.
 
 Cada Project Arc deve funcionar como uma cápsula de conhecimento deixada para o meu eu do futuro.
+
+
+*Publicado por Julio Cesar - Café do Jovem Stark*

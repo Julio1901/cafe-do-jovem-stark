@@ -1,6 +1,6 @@
 ---
 title: "Project Arc — Workflow de Aprendizado e Arquivamento de Conhecimento"
-date: 2026-06-308
+date: 2026-06-08
 categories: [ProjectArc, Workflow, Aprendizado]
 tags: [ProjectArc, Workflow, Aprendizado]
 ---

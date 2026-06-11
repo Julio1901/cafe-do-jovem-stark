@@ -8,25 +8,10 @@ tags: [ProjectArc, Reflections, Electronics, Learning, DIY]
 Today, I opened up an old Guitar Hero guitar that I used to play on my PlayStation 2 when I was a teenager. I already knew it wasn't working properly, and since I'm planning to learn more about eletronics, I thought it would be a good first project.
 
 <img
-  src="{{ '/assets/img/project-arc/002/guitar-01.png' | relative_url }}"
+  src="'/assets/img/project-arc/002/guitar-01.png'"
   alt="Opened Guitar Hero guitar"
   width="600">
 
 My goal was to check for any loose wires and see if there was an easy fix, but also to use the opportunity to take my first steps into eletronics. Even something as simple as learning how to test whether a circuit board is faulty or figuring out what tools I need felt like a good place to start.
 
 I'm not very confident that the guitar can actually be repaired, but that's not really the point. Right now, I'm focused on the journey rather than the outcome. The result I'm looking for at this stage is knowledge.
-
-<img
-  src="{{ '/assets/img/project-arc/002/guitar-02.png' | relative_url }}"
-  alt="Opened Guitar Hero guitar"
-  width="600">
-
-  <img
-  src="{{ '/assets/img/project-arc/002/guitar-04.png' | relative_url }}"
-  alt="Opened Guitar Hero guitar"
-  width="600">
-
-  <img
-  src="{{ '/assets/img/project-arc/002/guitar-03.png' | relative_url }}"
-  alt="Opened Guitar Hero guitar"
-  width="600">

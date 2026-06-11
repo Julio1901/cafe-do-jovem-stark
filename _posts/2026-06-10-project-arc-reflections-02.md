@@ -8,7 +8,7 @@ tags: [ProjectArc, Reflections, Electronics, Learning, DIY]
 Today, I opened up an old Guitar Hero guitar that I used to play on my PlayStation 2 when I was a teenager. I already knew it wasn't working properly, and since I'm planning to learn more about eletronics, I thought it would be a good first project.
 
 <img
-  src="'/assets/img/project-arc/002/guitar-01.png'"
+  src="assets/img/project-arc/002/guitar-01.png"
   alt="Opened Guitar Hero guitar"
   width="600">
 

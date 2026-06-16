@@ -1,10 +1,9 @@
 ---
-
-title: Workflow de Leitura Bíblica em 10 Minutos
-date: 2026-06-16 13:00:00 -0300
-categories: [Bíblia, Hábitos]
-tags: [leitura bíblica, hábito, produtividade, consistência, rotina, cristianismo]
-----------------------------------------------------------------------------------
+title: "Workflow de Leitura Bíblica em 10 Minutos"
+date: 2026-06-16
+categories: [Biblia, Habitos]
+tags: [leitura-biblica, habito, produtividade]
+---
 
 ## Objetivo
 

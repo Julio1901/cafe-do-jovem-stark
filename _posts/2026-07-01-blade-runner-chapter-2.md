@@ -1,7 +1,7 @@
 ---
 title: "Blade Runner Chapter 2: Loneliness and the Empathy Machine"
 date: 2026-07-01
-categories: [Reading Notes, Books]
+categories: [Books]
 tags: [blade-runner, review, books]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Pausa para o café: Um banco ensolarado"
 date: 2026-07-10
-categories: [Pausa para o Café]
+categories: [pausa-para-o-café]
 tags: [fotografia, reflexões]
 ---
 # Pausa para o café: Um banco ensolarado
